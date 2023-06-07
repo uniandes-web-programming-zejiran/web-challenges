@@ -1,0 +1,9 @@
+{
+    "Position": "Position",
+    "Company": "Company",
+    "Salary": "Salary",
+    "City": "City",
+    "PublicationDate": "Publication Date",
+    "Views": "Views",
+    "Million": "{count, plural, one {Million} other {Millions}}"
+}
