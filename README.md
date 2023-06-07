@@ -1,2 +1,2 @@
-# web-challenges
-Challenges made on a web programming course
+# Web Challenges
+Challenges made on a web programming course.
